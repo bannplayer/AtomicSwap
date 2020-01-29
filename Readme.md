@@ -13,3 +13,5 @@
 ### If something wrong like wrong amount or else, there is no cancel. Wait for end time.
 
 ### ERC20 address may be set, but not yet.
+
+### 1% fee for owner, can change.
